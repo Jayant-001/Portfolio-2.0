@@ -33,10 +33,10 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
           }
           <Divider />
-          {toggle === 'machine learning' ?
-            <ToggleButton active="true" value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
+          {toggle === 'frontend' ?
+            <ToggleButton active="true" value="frontend" onClick={() => setToggle('frontend')}>Frontend</ToggleButton>
             :
-            <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
+            <ToggleButton value="frontend" onClick={() => setToggle('frontend')}>Frontend</ToggleButton>
           }
         </ToggleButtonGroup>
         <CardContainer>
