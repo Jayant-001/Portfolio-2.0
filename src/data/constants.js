@@ -364,6 +364,27 @@ export const projects = [
     },
     {
         id: 4,
+        title: "Broken Links Checker",
+        date: "Nov 2023",
+        description:
+            "Introducing Broken Links Checker, your go-to app for seamless URL validation. Simply input a URL, and let Broken Links Checker meticulously scan and report all links on the page, identifying and highlighting any dead or broken links. Empowering users with a quick and efficient tool to ensure website integrity and user experience. Broken Links Checker, where link validation meets simplicity.",
+        image: "/broken_links_checker_project.png",
+        tags: [
+            "Next Js",
+            "linkinator",
+            "TypeScript",
+            "TanStack Query",
+            "React Js",
+            "Axios",
+            "react-loading-icons",
+            "Tailwind CSS",
+        ],
+        category: "web app",
+        github: "https://github.com/Jayant-001/URL-Shortener",
+        webapp: "https://shorturl-01.vercel.app/",
+    },
+    {
+        id: 5,
         title: "Epic Store",
         date: "Aug 2023",
         description:
@@ -397,7 +418,7 @@ export const projects = [
         // ],
     },
     {
-        id: 5,
+        id: 6,
         title: "Epic Cart",
         date: "July 2023",
         description:
@@ -409,7 +430,7 @@ export const projects = [
         webapp: "https://epic-cart-stripe.vercel.app",
     },
     {
-        id: 6,
+        id: 7,
         title: "Youtube Clone",
         date: "Feb 2023",
         description:
@@ -421,9 +442,9 @@ export const projects = [
         webapp: "https://youtube-clone-jayant.vercel.app/",
     },
     {
-        id: 7,
+        id: 8,
         title: "Notes App",
-        date: "Nov 2023",
+        date: "Oct 2023",
         description:
             "An advanced note-taking app built on React JS and TypeScript stores notes on local storage on the web browser. Manage notes by tagging them with custom tags. provides a search feature by title and tags.",
         image: "notes_app_project.png",
@@ -433,7 +454,7 @@ export const projects = [
         webapp: "https://noter-app.vercel.app",
     },
     {
-        id: 8,
+        id: 9,
         title: "Filmy verse",
         date: "Jan 2023",
         description:
@@ -445,7 +466,7 @@ export const projects = [
         webapp: "https://filmy-verse.netlify.app/",
     },
     {
-        id: 9,
+        id: 10,
         title: "My Portfolio",
         date: "Jun 2023",
         description:
@@ -457,7 +478,7 @@ export const projects = [
         webapp: "https://jayant-gupta.vercel.app/",
     },
     {
-        id: 10,
+        id: 11,
         title: "Copy Assignment",
         date: "Jun 2021",
         description:
@@ -469,7 +490,7 @@ export const projects = [
         webapp: "https://blog.hubspot.com/hs-fs/hubfs/404-error-page.jpg?width=893&height=600&name=404-error-page.jpg",
     },
     {
-        id: 11,
+        id: 12,
         title: "CP Calendar",
         date: "Dec 2020 - Jan 2021",
         description:
@@ -481,7 +502,7 @@ export const projects = [
         webapp: "https://blog.hubspot.com/hs-fs/hubfs/404-error-page.jpg?width=893&height=600&name=404-error-page.jpg",
     },
     {
-        id: 12,
+        id: 13,
         title: "Netflix UI Clone",
         date: "June 2023",
         description:
