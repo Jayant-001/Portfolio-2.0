@@ -422,6 +422,18 @@ export const projects = [
     },
     {
         id: 7,
+        title: "Notes App",
+        date: "Nov 2023",
+        description:
+            "An advanced note-taking app built on React JS and TypeScript stores notes on local storage on the web browser. Manage notes by tagging them with custom tags. provides a search feature by title and tags.",
+        image: "notes_app_project.png",
+        tags: ["React", "TypeScript", "Bootstrap", "React Markdown", "React Select", "UUID", "Vite"],
+        category: "frontend",
+        github: "https://github.com/Jayant-001/React-Notes-App",
+        webapp: "https://noter-app.vercel.app",
+    },
+    {
+        id: 8,
         title: "Filmy verse",
         date: "Jan 2023",
         description:
@@ -433,7 +445,7 @@ export const projects = [
         webapp: "https://filmy-verse.netlify.app/",
     },
     {
-        id: 8,
+        id: 9,
         title: "My Portfolio",
         date: "Jun 2023",
         description:
@@ -445,7 +457,7 @@ export const projects = [
         webapp: "https://jayant-gupta.vercel.app/",
     },
     {
-        id: 9,
+        id: 10,
         title: "Copy Assignment",
         date: "Jun 2021",
         description:
@@ -457,7 +469,7 @@ export const projects = [
         webapp: "https://blog.hubspot.com/hs-fs/hubfs/404-error-page.jpg?width=893&height=600&name=404-error-page.jpg",
     },
     {
-        id: 10,
+        id: 11,
         title: "CP Calendar",
         date: "Dec 2020 - Jan 2021",
         description:
@@ -469,7 +481,7 @@ export const projects = [
         webapp: "https://blog.hubspot.com/hs-fs/hubfs/404-error-page.jpg?width=893&height=600&name=404-error-page.jpg",
     },
     {
-        id: 11,
+        id: 12,
         title: "Netflix UI Clone",
         date: "June 2023",
         description:
